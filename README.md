@@ -8,10 +8,7 @@
 
 ### SNS
 <a href="https://ram-zip.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=FFFFFF"/>
-  
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huB-ram)](https://github.com/깃허브아이디/github-readme-stats)
-  
+ 
   
   
 <!--

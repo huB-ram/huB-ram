@@ -1,6 +1,6 @@
 ### Hi there 👋
-#<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=FFFFFF"/>
+
+<a href="https://ram-zip.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=FFFFFF"/>
 <!--
 **huB-ram/huB-ram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
 ### Skill
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
 
 ---
 ### SNS

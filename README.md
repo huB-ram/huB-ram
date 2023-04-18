@@ -1,5 +1,7 @@
-### Hi there 👋
-
+##Skill
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=000000"/>
+---
+##SNS
 <a href="https://ram-zip.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=flat-square&logo=Tistory&logoColor=000000"/>
 <!--
 **huB-ram/huB-ram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

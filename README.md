@@ -2,7 +2,12 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=appveyor&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=appveyor&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=appveyor&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=appveyor&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=appveyor&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=appveyor&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=appveyor&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=appveyor&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=appveyor&logoColor=FFFFFF"/>
+
+
 
 ---
 ### SNS

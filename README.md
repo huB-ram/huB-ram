@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=Tensorflow&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=Pytorch&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=appveyor&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=appveyor&logoColor=FFFFFF"/>
 
 

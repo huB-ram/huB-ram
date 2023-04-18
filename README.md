@@ -3,7 +3,7 @@
 
 ---
 ### SNS
-<a href="https://ram-zip.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=flat-square&logo=Tistory&logoColor=000000"/>
+<a href="https://ram-zip.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=FFFFFF"/>
 <!--
 **huB-ram/huB-ram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

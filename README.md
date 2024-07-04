@@ -5,7 +5,7 @@
 
 
 ### Skill
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=Numpy&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=Tensorflow&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=Pytorch&logoColor=FFFFFF"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=Tensorflow&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=Pytorch&logoColor=FFFFFF"/> 
 
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=FFFFFF"/> 
